@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.1.5](https://github.com/googleapis/java-cloudcommerceconsumerprocurement/compare/v0.1.4...v0.1.5) (2022-10-04)
+
+
+### Bug Fixes
+
+* update protobuf to v3.21.7 ([81f9e97](https://github.com/googleapis/java-cloudcommerceconsumerprocurement/commit/81f9e97fc7e6f405a673a0d5f7eb2cb0a306e87f))
+
 ## [0.1.4](https://github.com/googleapis/java-cloudcommerceconsumerprocurement/compare/v0.1.3...v0.1.4) (2022-10-03)
 
 
