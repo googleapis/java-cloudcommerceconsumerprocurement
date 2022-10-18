@@ -79,7 +79,7 @@
       <dependency>
         <groupId>com.google.api.grpc</groupId>
         <artifactId>proto-google-cloud-cloudcommerceconsumerprocurement-v1alpha1</artifactId>
-        <version>0.1.6-SNAPSHOT</version><!-- {x-version-update:proto-google-cloud-cloudcommerceconsumerprocurement-v1alpha1:current} -->
+        <version>0.2.0</version><!-- {x-version-update:proto-google-cloud-cloudcommerceconsumerprocurement-v1alpha1:current} -->
       </dependency>
 
       <dependency>
